@@ -1,0 +1,9 @@
+<svg width="50" height="24" viewBox="0 0 50 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.35" style="isolation:isolate">
+<rect  x="-0.213" y="0.667" width="42" height="20.667" rx="4.333" stroke="#181725" stroke-width="1" stroke-miterlimit="3.999327"/>
+</g>
+<g opacity="0.4" style="isolation:isolate">
+<path d="M45.787,8L45.787,16C47.396,15.322 48.443,13.746 48.443,12C48.443,10.254 47.396,8.678 45.787,8Z" fill="#181725"/>
+</g>
+<rect  x="3.787" y="4.667" width="36" height="14.667" rx="2.667" fill="#181725"/>
+</svg>
